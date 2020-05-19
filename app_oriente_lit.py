@@ -124,7 +124,7 @@ if st.checkbox('Mostrar datos'):
 #st.write(test)
 
 
-df3 = df.groupby(by='Tiempo Sistema')
+#df3 = df.groupby(by='Tiempo Sistema')
 
 #months = [mm for mm in df['Tiempo Sistema'].dt.month]
 #months
